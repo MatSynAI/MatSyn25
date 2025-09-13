@@ -1,2 +1,2 @@
 # MatSynAI
-MatSynAl is a materials synthesis knowledge base.
+MatSynAl is a materials synthesis dataset.
